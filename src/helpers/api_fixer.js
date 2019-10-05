@@ -6,7 +6,7 @@ export function getRates(base) {
   return axios.get(fixerUrl, {
     params: {
       base
-    }
+    } 
   })
     .then(res => {
       const { data } = res,
