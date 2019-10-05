@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const fixerUrl = 'http://data.fixer.io/api/latest?access_key=40566e492bb0ba863934bb0722f72bd5'
+const fixerUrl = 'https://data.fixer.io/api/latest?access_key=40566e492bb0ba863934bb0722f72bd5'
 
 export function getRates(base) {
   return axios.get(fixerUrl, {
