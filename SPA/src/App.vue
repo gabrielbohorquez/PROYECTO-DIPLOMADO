@@ -1,5 +1,5 @@
 <template>
-  <div id="app" class="fondo-movimiento">
+  <div id="app" class="container center">
     <currency></currency>
   </div>
 </template>
