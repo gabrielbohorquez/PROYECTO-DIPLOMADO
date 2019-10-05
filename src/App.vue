@@ -11,7 +11,7 @@ export default {
   }
 };
 </script>
-<style scoped>
+<style>
 body{
     background: url(https://www.toptal.com/designers/subtlepatterns/patterns/doodles.png) repeat 0 0;
     width: 100%;
